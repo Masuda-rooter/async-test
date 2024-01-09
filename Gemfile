@@ -49,3 +49,5 @@ group :development do
 
   gem "faker"
 end
+
+gem "ransack", "~> 4.1"
